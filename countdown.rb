@@ -10,6 +10,5 @@ def countdown (number)
  end
 
 def countdown_with_sleep
-  do sleep (5)
-  end
+  sleep (5)
 end
